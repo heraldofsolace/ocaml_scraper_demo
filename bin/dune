@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml_scrape_demo)
+ (name main)
+ (libraries ocaml_scrape_demo cohttp cohttp-lwt-unix lambdasoup))
